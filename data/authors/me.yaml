@@ -42,14 +42,14 @@ links:
     url: https://orcid.org/0000-0003-1884-0449
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Solar PV Fabrication and Systems
+  - Microelectronic and Analogue-Mixed Signal Circuit Design
+  - Micro-Nano Electronics Research
+  - Sustainable Energy
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
+  - degree: PhD Microelectronics
+    institution: Edinburgh University
     start: 2015-09-01
     end: 2019-06-30
     summary: |
