@@ -8,6 +8,9 @@ superuser: true
 # Role/position
 role: Senior Lecturer
 
+avatar:
+  image: avatar.jpg
+
 # Organizations/Affiliations
 organizations:
   - name: Universiti Tenaga Nasional (UNITEN)
